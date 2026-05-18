@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meriem23-dj&label=Profile%20views&color=0e75b6&style=flat" alt="meriem23-dj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriem23-dj" alt="meriem23-dj" /></a> </p>
 
 - 🔭 I’m currently working on [A Document Search Engine using Python and Elasticsearch](https://github.com/meriem23-dj/Document-Search-Engine.git)
 
