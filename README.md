@@ -4,9 +4,7 @@
 A Computer Security student passionate about backend development
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meriem23-dj&label=Profile%20views&color=0e75b6&style=flat" alt="meriem23-dj" />
-</p>
+
 
 <br>
 
