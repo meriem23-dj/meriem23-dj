@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meriem</h1>
+<h1 align="center">Hi , I'm Meriem</h1>
 
 <h3 align="center">
 A Computer Security student passionate about backend development
@@ -9,7 +9,7 @@ A Computer Security student passionate about backend development
 <br>
 
 <ul>
-  <li>🔭 I’m currently working on 
+  <li> I’m currently working on 
     <a href="https://github.com/meriem23-dj/Document-Search-Engine.git">
       A Document Search Engine using Python and Elasticsearch
     </a>
@@ -17,16 +17,16 @@ A Computer Security student passionate about backend development
 
   <br>
 
-  <li>🌱 I’m currently learning <b>Backend Development, Spring Boot, Elasticsearch, and Cybersecurity</b></li>
+  <li> I’m currently learning <b>Backend Development, Spring Boot, Elasticsearch, and Cybersecurity</b></li>
 
   <br>
 
-  <li>📫 How to reach me <b>djellid.meriem27@gmail.com</b></li>
+  <li> How to reach me <b>djellid.meriem27@gmail.com</b></li>
 </ul>
 
 <br>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left"> Languages and Tools</h3>
 
 <p align="center">
 
