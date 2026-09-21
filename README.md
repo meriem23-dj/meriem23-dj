@@ -17,7 +17,7 @@ A Computer Security student passionate about backend development
 
   <br>
 
-  <li> I’m currently learning <b>Backend Development, Spring Boot, Elasticsearch, and Cybersecurity</b></li>
+  <li> I’m currently learning <b>Backend Development,Cybersecurity </b></li>
 
   <br>
 
