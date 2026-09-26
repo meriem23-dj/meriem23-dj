@@ -22,6 +22,9 @@ A Computer Security student passionate about backend development
   <br>
 
   <li> How to reach me <b>djellid.meriem27@gmail.com</b></li>
+  <br>
+
+  <li> Portfolio : <b>https://meriemdj-portfolio.vercel.app/</b></li>
 </ul>
 
 <br>
@@ -82,7 +85,7 @@ A Computer Security student passionate about backend development
 
 <br>
 
-<h3 align="left">📊 GitHub Stats</h3>
+
 
 <p align="center">
   <img 
@@ -98,9 +101,4 @@ A Computer Security student passionate about backend development
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=meriem23-dj&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
+
